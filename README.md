@@ -18,4 +18,4 @@ This project visualizes sales, profit, and product performance data from the Adv
 - Excel
 
 ## 📸 Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard]
